@@ -1,0 +1,124 @@
+{
+  "users": {
+    "1": {
+      "id": "1001",
+      "username": "danielcorreia",
+      "first_name": "Daniel",
+      "last_name": "Correia"
+    }
+  },
+  "/home/danielcorreia/OneDrive/Flyzerosky/videos": {
+    "1": {
+      "file_name": "2021_09_25_12_28_08.mov",
+      "full_path": "/home/danielcorreia/OneDrive/Flyzerosky/videos/2021_09_25_12_28_08.mov",
+      "created_date_time": 1632565730.0,
+      "duration_in_seconds": 36,
+      "thumbnail_name": "2021_09_25_12_28_08.png"
+    },
+    "2": {
+      "file_name": "2021_08_08_12_14_53.mov",
+      "full_path": "/home/danielcorreia/OneDrive/Flyzerosky/videos/2021_08_08_12_14_53.mov",
+      "created_date_time": 1628417706.0,
+      "duration_in_seconds": 5,
+      "thumbnail_name": "2021_08_08_12_14_53.png"
+    },
+    "3": {
+      "file_name": "2021_08_01_09_51_58.mov",
+      "full_path": "/home/danielcorreia/OneDrive/Flyzerosky/videos/2021_08_01_09_51_58.mov",
+      "created_date_time": 1627804331.0,
+      "duration_in_seconds": 5,
+      "thumbnail_name": "2021_08_01_09_51_58.png"
+    },
+    "4": {
+      "file_name": "2021_07_31_08_41_00.mov",
+      "full_path": "/home/danielcorreia/OneDrive/Flyzerosky/videos/2021_07_31_08_41_00.mov",
+      "created_date_time": 1627756870.0,
+      "duration_in_seconds": 5,
+      "thumbnail_name": "2021_07_31_08_41_00.png"
+    },
+    "5": {
+      "file_name": "2021_07_31_08_35_37.mov",
+      "full_path": "/home/danielcorreia/OneDrive/Flyzerosky/videos/2021_07_31_08_35_37.mov",
+      "created_date_time": 1627756546.0,
+      "duration_in_seconds": 4,
+      "thumbnail_name": "2021_07_31_08_35_37.png"
+    },
+    "6": {
+      "file_name": "2021_07_31_08_35_02.mov",
+      "full_path": "/home/danielcorreia/OneDrive/Flyzerosky/videos/2021_07_31_08_35_02.mov",
+      "created_date_time": 1627756510.0,
+      "duration_in_seconds": 3,
+      "thumbnail_name": "2021_07_31_08_35_02.png"
+    },
+    "7": {
+      "file_name": "2021_07_31_08_32_56.mov",
+      "full_path": "/home/danielcorreia/OneDrive/Flyzerosky/videos/2021_07_31_08_32_56.mov",
+      "created_date_time": 1627756385.0,
+      "duration_in_seconds": 5,
+      "thumbnail_name": "2021_07_31_08_32_56.png"
+    },
+    "8": {
+      "file_name": "2021_07_31_08_31_35.mov",
+      "full_path": "/home/danielcorreia/OneDrive/Flyzerosky/videos/2021_07_31_08_31_35.mov",
+      "created_date_time": 1627756308.0,
+      "duration_in_seconds": 6,
+      "thumbnail_name": "2021_07_31_08_31_35.png"
+    },
+    "9": {
+      "file_name": "2021_07_31_08_30_29.mov",
+      "full_path": "/home/danielcorreia/OneDrive/Flyzerosky/videos/2021_07_31_08_30_29.mov",
+      "created_date_time": 1627756239.0,
+      "duration_in_seconds": 4,
+      "thumbnail_name": "2021_07_31_08_30_29.png"
+    },
+    "10": {
+      "file_name": "2021_07_31_07_59_22.mov",
+      "full_path": "/home/danielcorreia/OneDrive/Flyzerosky/videos/2021_07_31_07_59_22.mov",
+      "created_date_time": 1627754371.0,
+      "duration_in_seconds": 3,
+      "thumbnail_name": "2021_07_31_07_59_22.png"
+    },
+    "11": {
+      "file_name": "2021_07_31_07_51_48.mov",
+      "full_path": "/home/danielcorreia/OneDrive/Flyzerosky/videos/2021_07_31_07_51_48.mov",
+      "created_date_time": 1627753918.0,
+      "duration_in_seconds": 5,
+      "thumbnail_name": "2021_07_31_07_51_48.png"
+    },
+    "12": {
+      "file_name": "2021_07_31_07_51_07.mov",
+      "full_path": "/home/danielcorreia/OneDrive/Flyzerosky/videos/2021_07_31_07_51_07.mov",
+      "created_date_time": 1627753878.0,
+      "duration_in_seconds": 4,
+      "thumbnail_name": "2021_07_31_07_51_07.png"
+    },
+    "13": {
+      "file_name": "2021_07_31_05_58_27.mov",
+      "full_path": "/home/danielcorreia/OneDrive/Flyzerosky/videos/2021_07_31_05_58_27.mov",
+      "created_date_time": 1627747117.0,
+      "duration_in_seconds": 4,
+      "thumbnail_name": "2021_07_31_05_58_27.png"
+    },
+    "14": {
+      "file_name": "2021_07_31_05_52_47.mov",
+      "full_path": "/home/danielcorreia/OneDrive/Flyzerosky/videos/2021_07_31_05_52_47.mov",
+      "created_date_time": 1627746779.0,
+      "duration_in_seconds": 5,
+      "thumbnail_name": "2021_07_31_05_52_47.png"
+    },
+    "15": {
+      "file_name": "2021_07_31_03_58_20.mov",
+      "full_path": "/home/danielcorreia/OneDrive/Flyzerosky/videos/2021_07_31_03_58_20.mov",
+      "created_date_time": 1627739963.0,
+      "duration_in_seconds": 56,
+      "thumbnail_name": "2021_07_31_03_58_20.png"
+    },
+    "16": {
+      "file_name": "2021_07_26_08_23_47.mov",
+      "full_path": "/home/danielcorreia/OneDrive/Flyzerosky/videos/2021_07_26_08_23_47.mov",
+      "created_date_time": 1627323854.0,
+      "duration_in_seconds": 14,
+      "thumbnail_name": "2021_07_26_08_23_47.png"
+    }
+  }
+}

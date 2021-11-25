@@ -1,0 +1,27 @@
+.scrolledWindow {
+    border-width: 0px;
+}
+
+.borderRadius {
+    border-radius: 10px;
+}
+
+.transparent {
+    background-color: transparent;
+}
+
+.black {
+    background-color: black;
+}
+
+.border {
+    background-color: #2C2C2C;
+}
+
+.padding {
+    padding: 0px;
+}
+
+.padding {
+    margin: 0px;
+}
